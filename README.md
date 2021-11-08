@@ -25,4 +25,4 @@ Click the [GitHub account mapper button](https://w3.ibm.com/developer/open-sourc
 
 ## Create your first pull request
 
-With that done, it's now time to create your first GitHub contribution! Follow the steps in the [Practice-Pull-Requests](https://w3.ibm.com/developer/open-source/) repo.
+With that done, it's now time to create your first GitHub contribution! Follow the steps in the [Practice-Pull-Requests](https://github.com/Call-for-Code/Practice-Pull-Requests) repo.
