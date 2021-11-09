@@ -9,6 +9,7 @@ Simple lab for IBMers to start to use GitHub and submit their first pull request
 - [Link your GHE account with your GH account](#link-your-ghe-account-with-your-gh-account)
 - [Create your first pull request](#create-your-first-pull-request)
 - [Create your first repo from a template](#create-your-first-repo-from-a-template)
+- [Next steps](#next-steps)
 
 ## Create a GitHub Enterprise account
 
@@ -57,3 +58,11 @@ This tab serves as your metrics dashboard. You can see how your code is being up
 ### Settings
 
 Finally, this tab contains just about every other configuration for your project. You can manage user permissions here and invite others to collaborate on your project. One other interesting item is Pages. This allows you to publish a public website from your repository. So if you're looking for free webhosting (you can even point a custom domain at it) this could be interesting. This is used to host [**pyrrha-platform.org**](https://github.com/Pyrrha-Platform/Pyrrha-Website).
+
+## Next steps
+
+After you've gotten the hang of things through this workshop repository, we encourage you to continue learning more about contributing to open source.
+
+1. Spend 4-6 hours on the [**free "Introduction to Open Source" class**](https://cognitiveclass.ai/courses/introduction-to-open-source). It's intended for technical and non-technical folks alike to learn about open source, which is becoming a key skill in today's world. You can earn a badge and certificate after completion.
+
+1. Explore the existing [**Call for Code projects**](https://github.com/Call-for-Code/Project-Catalog) and make your first contribution! Anything from a small typo fix, to a language translation or documentation update, to an important code fix is welcome!
