@@ -30,4 +30,28 @@ With that done, it's now time to create your first GitHub contribution! Follow t
 
 ## Create your first repo from a template
 
-Ok, now that you've learned how to contribute to an existing project, it's time to create your own repository from the [Project Sample template](https://github.com/Call-for-Code/Project-Sample).
+Ok, now that you've learned how to contribute to an existing project, it's time to create and configure your own repository from the [Project Sample template](https://github.com/Call-for-Code/Project-Sample).
+
+First, click the green "Use this template" button at the top of the repo. Create a copy under your GitHub user name. You can make it public or private if you want to work on something before releasing it later.
+
+This repo is a bit more complex than the pull reqest practices repo, but you'll notice that it has the same key README.md, CONTRIBUTING.md, and LICENSE files as you saw there.
+
+From here, you'll want to get familiar with 4 of the tabs at the top of your repo. You've already worked with issues and pull requests. Let's ignore ZenHub (if you have it) and Actions for now and focus on Projects, Wiki, Security, Insights, and Settings.
+
+### Projects
+
+This is GitHub's built in project management feature for tracking issues on a board. It can be used similar to Trello or ZenHub. This is a good way to manage your wall of work and track progress during standups or scrums. You can create projects at the repo level, or manage tasks in many repos by using one at the organization level.
+
+### Wiki
+
+This is an alternative to providing your documentation alongside what's in the Code part of the repo. There are pros and cons to this, as folks may not know you have a wiki unless you explicitly point to it from your README.md. For a good example of how wikis are used alongside code, have a look at the ClusterDuck Protocol [README.md](https://github.com/Call-for-Code/ClusterDuck-Protocol) and [wiki](https://github.com/Call-for-Code/ClusterDuck-Protocol/wiki).
+
+### Security
+
+### Insights
+
+### Settings
+
+
+
+
