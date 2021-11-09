@@ -48,10 +48,12 @@ This is an alternative to providing your documentation alongside what's in the C
 
 ### Security
 
+Here you can review how security issues are handles. There are some options you can check, and you'll quickly become familar with the GitHub [dependabot](https://github.com/dependabot) which will scan public repos for dependency vulnerabilities and often send you pull requests. If you're building a Node.js app, dependabot will be your new best friend.
+
 ### Insights
+
+This tab serves as your metrics dashboard. You can see how your code is being updated over time, who your leading contributors are, and how many people are finding your repo from various links.
 
 ### Settings
 
-
-
-
+Finally, this tab contains just about every other configuration for your project. You can manage user permissions here and invite others to collaborate on your project. One other interesting item is Pages. This allows you to publish a public website from your repository. So if you're looking for free webhosting (you can even point a custom domain at it) this could be interesting. This is used to host [pyrrha-platform.org](https://github.com/Pyrrha-Platform/Pyrrha-Website).
