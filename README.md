@@ -7,8 +7,8 @@ Simple lab for IBMers to start to use GitHub and submit their first pull request
 - [Create a GitHub Enterprise account](#create-a-github-enterprise-account)
 - [Create a GitHub account](#create-a-github-account)
 - [Link your GHE account with your GH account](#link-your-ghe-account-with-your-gh-account)
-- [Create your first pull request](#create-your-first-pull-request)
-- [Create your first repo from a template](#create-your-first-repo-from-a-template)
+- [Exercise 1: Create your first pull request](#exercise-1-create-your-first-pull-request)
+- [Exercise 2: Create your first repo from a template](#exercise-2-create-your-first-repo-from-a-template)
 - [Next steps](#next-steps)
 
 ## Create a GitHub Enterprise account
@@ -25,11 +25,11 @@ Now, go ahead and [sign up a public GitHub account](https://github.com/signup). 
 
 Click the [GitHub account mapper button](https://w3.ibm.com/developer/open-source/) on the **Open Source @ IBM** page at on the intranet. Go through the steps to link your accounts.
 
-## Create your first pull request
+## Exercise 1: Create your first pull request
 
 With that done, it's now time to create your first GitHub contribution! Follow the steps in the [**Practice-Pull-Requests**](https://github.com/Call-for-Code/Practice-Pull-Requests) repo.
 
-## Create your first repo from a template
+## Exercise 2: Create your first repo from a template
 
 Ok, now that you've learned how to contribute to an existing project, it's time to create and configure your own repository from the [**Project Sample template**](https://github.com/Call-for-Code/Project-Sample).
 
