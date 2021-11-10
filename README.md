@@ -13,7 +13,7 @@ Simple lab for IBMers to start to use GitHub and submit their first pull request
 
 ## Create a GitHub Enterprise account
 
-[IBM uses GitHub Enterprise internally](https://www.youtube.com/watch?v=4wbxxzDp98c) for various sofware projects, project management, and general inner source development.
+[IBM uses GitHub Enterprise internally](https://www.youtube.com/watch?v=4wbxxzDp98c) for various software projects, project management, and general inner source development.
 
 By [signing into GHE with your intranet id](https://github.ibm.com/), you'll create an account if you don't already have one. 
 
