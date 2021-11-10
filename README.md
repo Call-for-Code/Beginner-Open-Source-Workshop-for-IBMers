@@ -39,6 +39,8 @@ This repo is a bit more complex than the pull reqest practices repo, but you'll 
 
 From here, you'll want to get familiar with 4 of the tabs at the top of your repo. You've already worked with issues and pull requests. Let's ignore ZenHub (if you have it) and Actions for now and focus on **Projects**, **Wiki**, **Security**, **Insights**, and **Settings**.
 
+![Fix](img/tabs.png)
+
 ### Projects
 
 This is GitHub's built in project management feature for tracking issues on a board. It can be used similar to Trello or ZenHub. This is a good way to manage your wall of work and track progress during standups or scrums. You can create projects at the repo level, or manage tasks in many repos by using one at the organization level.
