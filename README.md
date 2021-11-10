@@ -35,6 +35,8 @@ Ok, now that you've learned how to contribute to an existing project, it's time 
 
 First, click the green "Use this template" button at the top of the repo. Create a copy under your GitHub user name. You can make it public or private if you want to work on something before releasing it later.
 
+![Fix](img/template.png)
+
 This repo is a bit more complex than the pull reqest practices repo, but you'll notice that it has the same key `README.md`, `CONTRIBUTING.md`, and `LICENSE` files as you saw there.
 
 From here, you'll want to get familiar with 4 of the tabs at the top of your repo. You've already worked with issues and pull requests. Let's ignore ZenHub (if you have it) and Actions for now and focus on **Projects**, **Wiki**, **Security**, **Insights**, and **Settings**.
